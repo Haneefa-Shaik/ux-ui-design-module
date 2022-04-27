@@ -9,8 +9,13 @@ This prototype has the solution of
 3. Payment method ease.
 
 ![img1](./images/IMG1.jpg)
+
 ![img2](./images/IMG2.jpg)
+
 ![img3](./images/IMG3.jpg)
+
 ![img4](./images/IMG4.jpg)
+
 ![img5](./images/IMG5.jpg)
+
 ![img6](./images/IMG6.jpg)
